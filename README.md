@@ -8,6 +8,6 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Backend:** Python (Django), PHP (MySQL)
-- **Frontend:** Flutter (Dart), JavaScript, HTML/CSS
-- **Tools:** Git, Docker, VS Code
+- **Backend:** Python (Django), PHP (MySQL) , Firebase 
+- **Frontend:** Flutter (Dart), JavaScript, HTML/CSS 
+- **Tools:** Git, Docker, VS Code 
